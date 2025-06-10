@@ -16,7 +16,6 @@
 - Next.js + TypeScript  
 - Tailwind CSS  
 - Mapbox (placeholder)  
-- Vercel (deployment-ready)
 
 ---
 
